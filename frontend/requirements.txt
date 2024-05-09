@@ -1,2 +1,7 @@
 streamlit
 requests
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+streamlit-msal
+opencensus-ext-azure
